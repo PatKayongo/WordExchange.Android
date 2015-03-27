@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WordExchange</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="source_word_label">Source Word:</string>
+    <string name="source_language_label">Source Language:</string>
+    <string name="target_language_label">Target Language:</string>
+    <string name="home_search_button_label">Find</string>
+</resources>
