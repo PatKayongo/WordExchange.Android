@@ -50,4 +50,12 @@
         android:id="@+id/searchButton"
         android:layout_gravity="center_horizontal" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:visibility="invisible"
+        android:id="@+id/targetWordTextView"
+        android:layout_gravity="center_horizontal" />
+
 </LinearLayout>
